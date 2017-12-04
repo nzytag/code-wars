@@ -14,6 +14,6 @@ if(i%2=== 0) {
   }
 }
  let evens = arEvens.join('');
- let odds = areOdds = areOdds.join('');
+ let odds = areOdds.join('');
   return [evens, odds];
 };
